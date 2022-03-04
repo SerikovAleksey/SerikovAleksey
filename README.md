@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🤔It's the account of student the Moscow Institute of physics and technology🤔
 <!--
 **SerikovAleksey/SerikovAleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬[VK](https://vk.com/lehand_man)
+
+⚡[Telega](https://t.me/lehand_man)
