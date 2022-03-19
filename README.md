@@ -1,5 +1,7 @@
 ### Hi there 👋
 :man_student:It's the account of student the Moscow Institute of physics and technology:man_student:
+
+🏅 DASR IS CHAMPION 🏅
 <!--
 **SerikovAleksey/SerikovAleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
