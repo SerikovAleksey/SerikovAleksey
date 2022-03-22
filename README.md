@@ -19,7 +19,7 @@
   <a href="https://t.me/lehand_man">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telega&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC4lyr7KTz7ZT9n0T9GgyTagL">
+  <a href="https://www.youtube.com/channel/UC4lyr7KTz7ZT9n0T9GgyTag">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://vk.com/lehand_man">
