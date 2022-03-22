@@ -9,9 +9,23 @@
 </p>
 </details>
   
+  ---
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerikovAleksey&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
+  ---
+  
+  <div id="badges" align="center">
+  <a href="https://t.me/lehand_man">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telega&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC4lyr7KTz7ZT9n0T9GgyTagL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://vk.com/lehand_man">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!--
 **SerikovAleksey/SerikovAleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
