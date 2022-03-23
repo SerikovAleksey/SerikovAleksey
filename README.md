@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/lehand_man" target="_blank">Lesha</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">:man_student:It's the account of student the Moscow Institute of physics and technology:man_student: </h3>
+<h3 align="center">:man_student:It's the account of student the Moscow Institute of physics and technology:man_student:</h3>
 
 <h align="center"><details><summary>CLICK AND YOU WILL KNOW TRUTH</summary>
   
