@@ -13,11 +13,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerikovAleksey&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  ---
-<td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-  </tr>
-</table>
+
 
   ---
   
