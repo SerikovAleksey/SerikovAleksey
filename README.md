@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 💬[VK](https://vk.com/lehand_man)
 
 ⚡[Telega](https://t.me/lehand_man)
